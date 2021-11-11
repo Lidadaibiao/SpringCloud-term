@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-parent/SpringCloud-api/SpringCloud-api.iml" filepath="$PROJECT_DIR$/SpringCloud-parent/SpringCloud-api/SpringCloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-parent/SpringCloud-parent.iml" filepath="$PROJECT_DIR$/SpringCloud-parent/SpringCloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloud-parent/SpringCloud-provider-dept-8001/SpringCloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/SpringCloud-parent/SpringCloud-provider-dept-8001/SpringCloud-provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud-term.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud-term.iml" />
+    </modules>
+  </component>
+</project>
